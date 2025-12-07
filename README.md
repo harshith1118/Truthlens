@@ -4,7 +4,7 @@
 
 Powered by **Google Gemini 3** and **Google Search Grounding**, it acts as a digital fact-checker that not only scores credibility but educates users on *why* content might be misleading.
 
-![TruthLens App](https://via.placeholder.com/800x450?text=TruthLens+App+Preview)
+
 
 ## 🚀 Key Features
 
