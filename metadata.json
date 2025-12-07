@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens",
+  "description": "An AI-powered digital literacy tool that detects potential misinformation, analyzes logical fallacies, and verifies facts using Google Search Grounding.",
+  "requestFramePermissions": []
+}
